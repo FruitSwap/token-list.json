@@ -1,0 +1,25 @@
+{
+  "name": "Fruitswap",
+  "logoURI": "https://fruitswap.org/img/256.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1F8438d7B87187cb27e8DD7F01A28a5c59410BAF",
+      "name": "Fruitswap",
+      "symbol": "FRUIT",
+      "decimals": 8,
+      "logoURI": "https://fruitswap.org/img/256.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
